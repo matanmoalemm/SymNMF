@@ -1,1 +1,1 @@
-# SymNMF
+Implemented the K-Means and Symmetric Nonnegative Matrix Factorization (SymNMF) algorithms using Python and C API to enhance efficiency. K-Means clusters data points based on similarity, while SymNMF decomposes similarity matrices to identify hidden patterns. Leveraging Python’s versatility with libraries such as NumPy, Pandas, and scikit-learn, alongside the computational power of C, these implementations achieved precise clustering with improved runtime performance. 
